@@ -277,4 +277,4 @@ In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboa
 <br />
 
 ---
-[Flask Dashboard StarAdmin Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard StarAdmin Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
