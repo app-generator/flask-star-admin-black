@@ -270,7 +270,7 @@ In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboa
 
 <br />
 
-### [Admin Dashboard StarAdmin PRO](https://www.bootstrapdash.com/product/star-admin-pro/?ref=appseed)
+### [Star Admin PRO](https://www.bootstrapdash.com/product/star-admin-pro/?ref=appseed)
 
 **Star Admin PRO** is a fully-featured modern admin template featuring a clean, simple, and professional design. Designed based on the Bootstrap framework, **Star Admin PRO** is a powerful, feature-rich, and super flexible admin dashboard template. It serves as the perfect starting point for both simple and complex web development projects. It features a well-designed dashboard with several neatly arranged components and essential elements.
 
